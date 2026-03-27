@@ -38,7 +38,7 @@ terraform apply
 
 ---
 
-## 🌐 Resultado
+## 🌐 Resultado esperado
 
 Após o deploy, acesse o IP público exibido:
 
@@ -49,14 +49,14 @@ public_ip = "SEU_IP_AQUI"
 E você verá:
 
 ```
-Desafio DevOps #1 — Deploy realizado com sucesso!
+
 ```
 
 ---
 
-## 📷 Evidência
+## 📷 Evidências
 
-(Coloque aqui um print do navegador com o site funcionando)
+
 
 ---
 
