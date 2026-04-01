@@ -103,7 +103,7 @@ E você verá:
 
 ---
 
-## Referência
+## Documentação de Referência
 
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
