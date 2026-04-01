@@ -6,7 +6,7 @@ terraform.tfvars
 *.tfstate.*
 .terraform.lock.hcl
 
-# Anotações:
+# Anotações de estudos sobre .gitignore:
 
 # * serve para substituir qualquer caracter ou palavra
 # ? serve para substituir um unico caracter
