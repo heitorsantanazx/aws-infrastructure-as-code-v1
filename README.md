@@ -1,4 +1,4 @@
-# Desafio DevOps #1 - Terraform EC2
+# terraform-aws-ec2-deploy
 
 Este projeto foi desenvolvido como solução para o desafio proposto no repositório original:
 
