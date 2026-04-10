@@ -22,9 +22,8 @@ Provisionar uma infraestrutura na AWS utilizando Terraform, incluindo:
 ## Tecnologias utilizadas
 
 * Terraform
-* AWS EC2
-* AWS VPC
-* Bash (user_data)
+* AWS EC2, VPC, Security Groups, Subnets, Internet Gateway
+* HCL
 
 ---
 
