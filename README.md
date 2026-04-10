@@ -1,4 +1,4 @@
-# terraform-aws-ec2-deploy
+# aws-infrastructure-as-code-v1
 
 Este projeto foi desenvolvido como solução para o desafio proposto no repositório original:
 
